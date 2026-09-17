@@ -1,6 +1,4 @@
-Claro. Te lo dejo con una estructura más limpia y profesional para un `README.md` de GitHub, corrigiendo además el formato de los bloques de código y separando claramente compilación, ejecución y perfilado.
 
-````markdown
 # Multiplicación de Matrices: Clásica vs. Por Bloques
 
 Este repositorio contiene implementaciones de **multiplicación de matrices** utilizando dos enfoques:
